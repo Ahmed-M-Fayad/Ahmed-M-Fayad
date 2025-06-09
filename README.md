@@ -13,142 +13,7 @@
 
 ---
 
-## 🚀 About Me
-
-<img align="right" alt="Data Science & AI Professional" height="300" width="300" src="https://img.freepik.com/premium-photo/software-engineer-digital-avatar-generative-ai_934475-8997.jpg?w=1480">
-
-I am a dedicated **Computer Engineering student** specializing in **Machine Learning**, **Data Science**, and **AI-driven solutions**. With advanced training from **Stanford**, **DEPI**, and **NTI**, I transform complex data into actionable insights and build scalable AI solutions that deliver real-world impact.
-
-Currently pursuing my Bachelor's degree in Computer Engineering and Automation with an **Excellent GPA of 3.3**, I combine strong academic foundations with hands-on industry experience. My journey spans across multiple domains - from data engineering and statistical modeling to deep learning and predictive analytics.
-
-**Core Competencies:** Advanced Statistical Modeling • Deep Learning • Neural Networks • Predictive Analytics • Data Engineering • ETL Processes • Data Warehousing
-
-**Leadership Excellence:** Successfully led cross-functional AI teams of 40+ members, coordinated complex machine learning projects, and delivered 15+ high-impact technical presentations to stakeholders.
-
-**Impact:** Leading AI innovation through cutting-edge research, practical implementations, and mentoring the next generation of data scientists.
-
-<br clear="right"/>
-
----
-
-## 🛠️ Core Data Science Arsenal
-
-<div align="center">
-
-### 🐍 Programming & Languages
-<p>
-<img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-</p>
-
-### 🤖 Machine Learning & Deep Learning
-<p>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-<img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-</p>
-
-### 📊 Data Analysis & Manipulation
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
-<img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars"/>
-</p>
-
-### 📈 Data Visualization & BI
-<p>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-</p>
-
-### ☁️ Big Data & Cloud Platforms
-<p>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-<img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" alt="Amazon Redshift"/>
-</p>
-
-### 🗃️ Databases & Data Storage
-<p>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/>
-</p>
-
-### 🛠️ Development & Deployment Tools
-<p>
-<img src="https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-</div>
-
----
-
-## 💼 Professional Journey
-
-### 🚀 **Current Roles**
-
-**Data Engineering Intern** | DEPI Round 3 | *May 2025 - Present*
-- Developing expertise in data pipelines, ETL processes, and advanced data modeling to support scalable AI solutions
-- Gaining hands-on experience with Python, PySpark, and Amazon Redshift for data warehousing and processing
-
-**Programming Trainee** | Stanford Code in Place | *April 2025 - Present*
-- Advanced programming training focusing on algorithmic thinking and software development best practices
-- Collaborative learning environment with global peers and Stanford instructors
-
-### 📈 **Recent Experience**
-
-**Data Science Intern** | DEPI Round 2 | *Sep 2024 - May 2025*
-- Mastered advanced statistical modeling, machine learning (regression, classification, neural networks), and deep learning using Python, JupyterLab, MLflow, and Hugging Face
-- Conducted exploratory data analysis and data visualization to derive insights from complex datasets
-- Completed a capstone project integrating theory and real-world applications, focusing on predictive modeling
-
-**AI Trainee** | NTI (Huawei Program) | *April - May 2025*
-- Completed an 80-hour Huawei AI program, mastering Python, mathematics for AI, and data analysis
-- Implemented machine learning and deep learning models, focusing on regression and model tuning
-- Developed a Streamlit-based PDF Quiz & Summary Generator using Ollama API (llama3)
-
-**Research Trainee** | URI | *Sep - Oct 2024*
-- Gained experience in SIEMENS LOGO 8Kit with the implementation of automation projects
-- Had exposure to different electrical circuits and industrial automation systems
-
-**System Admin Intern** | Engovation | *Feb - April 2024*
-- Completed Microsoft Certified System Administrator (MCSA) training, focusing on Windows Server and Active Directory
-- Gained skills in system management, supporting data-driven environments
-
-### 🎯 **Leadership & Impact**
-
-**Team Leader** | DEPI | *Sep 2024 – May 2025*
-- Led a team of peers in the AI & Data Science Track, coordinating project tasks and ensuring timely completion of deliverables
-- Facilitated collaboration on machine learning projects, enhancing team performance and technical outcomes
-
-**Key Achievements:**
-- ✅ Led cross-functional AI teams (40+ members)
-- ✅ Coordinated complex machine learning projects  
-- ✅ Delivered 15+ high-impact technical presentations
-- ✅ Achieved excellent academic performance (3.3 GPA)
-- 🏆 Team Leader Award, DEPI 2024
-- 🏆 Best Member Badge, URI 2024
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -157,15 +22,141 @@ Currently pursuing my Bachelor's degree in Computer Engineering and Automation w
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-M-Fayad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-M-Fayad&theme=tokyonight" alt="Profile Summary"/>
+</div>
+
+---
+
+## 🚀 About Me
+
+<div align="center">
+<table border="0" width="100%">
+<tr>
+<td width="65%" valign="top">
+
+<br>
+
+🎯 **Computer Engineering student** specializing in **AI & Data Science** with hands-on expertise in transforming data into actionable insights.
+
+📚 **Extensively trained** in **machine learning**, **data engineering**, and **AI systems** with expertise in **statistical modeling**, **deep learning**, **ETL pipelines**, and **production-ready AI solutions** using modern frameworks and cloud technologies.
+
+🏆 Currently at **Tanta University** with **3.3 GPA (Excellent)** while leading AI teams and building innovative solutions through advanced data science and machine learning techniques.
+
+> *"Driven by AI's potential to solve complex problems and create meaningful impact"*
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<br>
+<img alt="AI & Data Science Professional" height="280" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px;">
+
+<br>
+<br>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-blue?style=flat-square&logo=artificial-intelligence" alt="AI Focus"/>
+<br>
+<img src="https://img.shields.io/badge/Passion-Data%20Science-green?style=flat-square&logo=chartdotjs" alt="Data Science"/>
 </p>
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Data
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+### 🤖 Machine Learning & AI
+<p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+### 📊 Data Visualization & Analytics
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
+
+### ☁️ Big Data & Cloud
+<p>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+<img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" alt="Amazon Redshift"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL"/>
+</p>
+
+### 🛠️ Development Tools
+<p>
+<img src="https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+<img src="https://img.shields.io/badge/Beautiful%20Soup-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup"/>
+</p>
+
+---
+
+## 💼 Current Experience
+
+**Data Engineering Intern** | DEPI | *May 2025 - Present*
+- Developing data pipelines and ETL processes with Python, PySpark, and Amazon Redshift
+- Building scalable AI solutions and advanced data modeling architectures
+
+**Programming Trainee** | Stanford Code in Place | *April 2025 - Present*
+- Advanced programming training with Stanford instructors and global peers
+
+**Previous Roles:** Data Science Intern (DEPI) • AI Trainee (NTI) • Research Trainee (URI) • System Admin Intern (Engovation)
+
+---
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+### 🏛️ **Academic Background**
+**B.Sc. Computer Engineering & Automation** | 2022-2027  
+**GPA: 3.3/4.0 (Excellent)** | Tanta University
+
+</div>
+
+### 🏅 **Professional Certifications**
+
+<div align="left">
+
+**🤖 AI & Machine Learning:**
+- **Machine Learning Specialization** - Stanford Online & DeepLearning.AI *(April 2025)*
+- **HCIA-AI V3.5** - Huawei *(May 2025)*
+- **Fundamentals of AI/ML in Precision Medicine** - Stanford Deep Data Research Center *(In Progress)*
+
+**📊 Data Science & Analytics:**
+- **Data Science & Analytics** - HP LIFE *(April 2025)*
+- **Data Analytics Essentials** - Cisco *(October 2024)*
+- **Python for Scientific Research** - Udemy *(August 2024)*
+
+**💻 Technical Specializations:**
+- **Microsoft Certified System Administrator (MCSA)** - Engovation *(February 2024)*
+- **Quantum Computing and Programming Bronze** - QWorld *(August 2024)*
 
 </div>
 
 ---
 
-## 🏆 Recognition & Impact
+## 🏆 Recognition & Leadership
 
 <div align="center">
 
@@ -175,12 +166,9 @@ Currently pursuing my Bachelor's degree in Computer Engineering and Automation w
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/🎯_Teams_Led-40+_Members-blue?style=for-the-badge" alt="Teams Led"/>
+<img src="https://img.shields.io/badge/👥_Teams_Led-40+_Members-blue?style=for-the-badge" alt="Teams Led"/>
 <img src="https://img.shields.io/badge/📈_Presentations-15+_Delivered-green?style=for-the-badge" alt="Presentations"/>
 </p>
-
-### 🎓 **Academic Excellence**
-**B.Sc. Computer Engineering** | 2022-2027 | **GPA: 3.3/4.0 (Excellent)**
 
 </div>
 
@@ -202,7 +190,7 @@ Currently pursuing my Bachelor's degree in Computer Engineering and Automation w
 </a>
 </p>
 
-**Let's collaborate on the next breakthrough in AI & Data Science!**
+**Open to collaboration on AI & Data Science projects!**
 
 </div>
 
